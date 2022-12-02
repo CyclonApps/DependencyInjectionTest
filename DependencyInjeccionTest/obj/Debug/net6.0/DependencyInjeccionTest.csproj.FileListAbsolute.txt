@@ -1,0 +1,15 @@
+D:\1Escriptori\Coding\Patrons de disseny\DependencyInjeccionTest\DependencyInjeccionTest\bin\Debug\net6.0\DependencyInjeccionTest.exe
+D:\1Escriptori\Coding\Patrons de disseny\DependencyInjeccionTest\DependencyInjeccionTest\bin\Debug\net6.0\DependencyInjeccionTest.deps.json
+D:\1Escriptori\Coding\Patrons de disseny\DependencyInjeccionTest\DependencyInjeccionTest\bin\Debug\net6.0\DependencyInjeccionTest.runtimeconfig.json
+D:\1Escriptori\Coding\Patrons de disseny\DependencyInjeccionTest\DependencyInjeccionTest\bin\Debug\net6.0\DependencyInjeccionTest.dll
+D:\1Escriptori\Coding\Patrons de disseny\DependencyInjeccionTest\DependencyInjeccionTest\bin\Debug\net6.0\DependencyInjeccionTest.pdb
+D:\1Escriptori\Coding\Patrons de disseny\DependencyInjeccionTest\DependencyInjeccionTest\obj\Debug\net6.0\DependencyInjeccionTest.csproj.AssemblyReference.cache
+D:\1Escriptori\Coding\Patrons de disseny\DependencyInjeccionTest\DependencyInjeccionTest\obj\Debug\net6.0\DependencyInjeccionTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\1Escriptori\Coding\Patrons de disseny\DependencyInjeccionTest\DependencyInjeccionTest\obj\Debug\net6.0\DependencyInjeccionTest.AssemblyInfoInputs.cache
+D:\1Escriptori\Coding\Patrons de disseny\DependencyInjeccionTest\DependencyInjeccionTest\obj\Debug\net6.0\DependencyInjeccionTest.AssemblyInfo.cs
+D:\1Escriptori\Coding\Patrons de disseny\DependencyInjeccionTest\DependencyInjeccionTest\obj\Debug\net6.0\DependencyInjeccionTest.csproj.CoreCompileInputs.cache
+D:\1Escriptori\Coding\Patrons de disseny\DependencyInjeccionTest\DependencyInjeccionTest\obj\Debug\net6.0\DependencyInjeccionTest.dll
+D:\1Escriptori\Coding\Patrons de disseny\DependencyInjeccionTest\DependencyInjeccionTest\obj\Debug\net6.0\refint\DependencyInjeccionTest.dll
+D:\1Escriptori\Coding\Patrons de disseny\DependencyInjeccionTest\DependencyInjeccionTest\obj\Debug\net6.0\DependencyInjeccionTest.pdb
+D:\1Escriptori\Coding\Patrons de disseny\DependencyInjeccionTest\DependencyInjeccionTest\obj\Debug\net6.0\DependencyInjeccionTest.genruntimeconfig.cache
+D:\1Escriptori\Coding\Patrons de disseny\DependencyInjeccionTest\DependencyInjeccionTest\obj\Debug\net6.0\ref\DependencyInjeccionTest.dll
